@@ -10,5 +10,5 @@ ZephyrProtocol team.
 
 - Policy, inventories, advisories and tooling: [`zephyr-backports`](https://github.com/zephyr-backports/zephyr-backports)
 - Forks: `zephyr` (branch `security/v2.3.0`), `zephyr-cpp`, `zephyr-javascript` as needed
-- Contact: zephyr-backports@lateo.dev (GPG via WKD); not for reporting Zephyr vulnerabilities, see SECURITY.md
+- Contact: zephyr-backports@lateo.dev (GPG key on keys.openpgp.org; fingerprint in zephyr-backports/zephyr-backports, keys/); not for reporting Zephyr vulnerabilities, see SECURITY.md
 - Every commit above an upstream tag is a `git cherry-pick -x` from `monero/release-v0.18`, checked by CI
